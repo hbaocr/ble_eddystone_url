@@ -1,0 +1,12 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Applications/SEGGER Embedded Studio for ARM 4.40/lib/libc_v7em_fpv4_sp_d16_hard_t_le_eabi.a(libc_asm.o)
+                              Output/ble_app_eddystone_pca10040_s132 Release/Obj/bsp.o (__aeabi_uldivmod)
+/Applications/SEGGER Embedded Studio for ARM 4.40/lib/libc_v7em_fpv4_sp_d16_hard_t_le_eabi.a(libc2.o)
+                              Output/ble_app_eddystone_pca10040_s132 Release/Obj/platform.o (calloc)
+/Applications/SEGGER Embedded Studio for ARM 4.40/lib/libc_v7em_fpv4_sp_d16_hard_t_le_eabi.a(libc2_asm.o)
+                              Output/ble_app_eddystone_pca10040_s132 Release/Obj/app_scheduler.o (memcpy)
+/Applications/SEGGER Embedded Studio for ARM 4.40/lib/libc_v7em_fpv4_sp_d16_hard_t_le_eabi.a(libc.o)
+                              /Applications/SEGGER Embedded Studio for ARM 4.40/lib/libc_v7em_fpv4_sp_d16_hard_t_le_eabi.a(libc2.o) (__heap_lock)
+/Applications/SEGGER Embedded Studio for ARM 4.40/lib/libdebugio_v7em_fpv4_sp_d16_hard_t_le_eabi.a(libdebugio.o)
+                              Output/ble_app_eddystone_pca10040_s132 Release/Obj/thumb_crt0.o (debug_fopen)
